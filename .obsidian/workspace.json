@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corvinarus Family/History.md",
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "917e9bc31d5f9fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corvinarus Family/History.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corvinarus Family/History.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corvinarus Family/History.md"
+                "file": "_index.md"
               }
             }
           },
@@ -179,14 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d95080dcb28f0df",
+  "active": "917e9bc31d5f9fba",
   "lastOpenFiles": [
+    "Sessions/Session 1.md",
+    "Sessions/Session 0.md",
+    "Locations/Raventree Manor.md",
+    "Locations/Ferncombe.md",
     "Corvinarus Family/Corvinarus Family Tree.canvas",
     "Corvinarus Family/History.md",
-    "Locations/Ferncombe.md",
-    "Locations/Raventree Manor.md",
-    "Testing Markdown.md",
-    "Sessions/Session 1.md",
-    "Sessions/Session 0.md"
+    "Testing Markdown.md"
   ]
 }
