@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"50e22182e18bd99d","x":60,"y":-306,"width":250,"height":60,"type":"text","text":"Ylana Annmatar"},
+		{"id":"3f5c8047e775b031","x":-135,"y":-182,"width":105,"height":60,"type":"text","text":"Kryn"},
+		{"id":"5b5d6aec0febc22b","x":72,"y":-182,"width":133,"height":60,"type":"text","text":"Elscieth"},
+		{"id":"d4c762109de9aa6d","x":-480,"y":-182,"width":250,"height":60,"type":"text","text":"Vivesna Loumaal"},
+		{"id":"5ceeb532cbce8f1a","x":-480,"y":-60,"width":250,"height":60,"type":"text","text":"Vaxillus Loumaal"},
+		{"id":"41d1c38aefdfb9d0","x":300,"y":-182,"width":250,"height":60,"type":"text","text":"Minor nobleman / Politican"},
+		{"id":"e030f19a99119f84","x":139,"y":-60,"width":250,"height":60,"type":"text","text":"Unnamed child"},
+		{"id":"a16612751220af91","x":-280,"y":-306,"width":250,"height":60,"type":"text","text":"Darius Corvinarus"}
+	],
+	"edges":[
+		{"id":"621ec1a387fd4b30","fromNode":"a16612751220af91","fromSide":"top","toNode":"50e22182e18bd99d","toSide":"top","color":"4","label":"Married"},
+		{"id":"b375c2a21af19330","fromNode":"a16612751220af91","fromSide":"right","toNode":"3f5c8047e775b031","toSide":"right","color":"2","label":"Children"},
+		{"id":"4a4d4b755ca77450","fromNode":"50e22182e18bd99d","fromSide":"left","toNode":"5b5d6aec0febc22b","toSide":"left","color":"2"},
+		{"id":"5b528aec5597fa42","fromNode":"d4c762109de9aa6d","fromSide":"right","toNode":"3f5c8047e775b031","toSide":"left","color":"4","label":"Married"},
+		{"id":"50f6a9a08976ff38","fromNode":"d4c762109de9aa6d","fromSide":"bottom","toNode":"5ceeb532cbce8f1a","toSide":"top","color":"2","label":"Child"},
+		{"id":"e937eaee1076bd1a","fromNode":"5b5d6aec0febc22b","fromSide":"right","toNode":"41d1c38aefdfb9d0","toSide":"left","color":"4","label":"Married"},
+		{"id":"d73e73bf2976ad97","fromNode":"5b5d6aec0febc22b","fromSide":"bottom","toNode":"e030f19a99119f84","toSide":"top","color":"2"},
+		{"id":"89a1dc1143264169","fromNode":"41d1c38aefdfb9d0","fromSide":"bottom","toNode":"e030f19a99119f84","toSide":"top","color":"2"}
+	]
+}
