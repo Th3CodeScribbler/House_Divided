@@ -34,7 +34,7 @@ jobs:
         with:
           file: "config.toml"
           key: "baseURL"
-          value: "https://ttrpg.skivers.one"          
+          value: "https://dnd.skivers.one"          
           
       - name: Set Description
         continue-on-error: true
@@ -50,7 +50,7 @@ jobs:
         with:
           file: "data/config.toml"
           key: "page_title"
-          value: "A House Divided Campaign Notes"
+          value: "Campaign Notes for A House Divided "
           
       
           
