@@ -34,7 +34,7 @@ jobs:
         with:
           file: "config.toml"
           key: "baseURL"
-          value: "https://ttrpg.skivers.one"          
+          value: "https://skivers.one"          
           
       - name: Set Description
         continue-on-error: true
